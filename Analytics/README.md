@@ -1,7 +1,7 @@
 # NLP Analysis #
 
 ## Introduction ## 
-Tweet Scraper:
+Terminalogy:
 * Tweet ***T<sub>ij<sub>*** is the ***j*** th tweet from Representative ***i*** , where 1 ≤ ***j*** ≤ ***N<sub>i<sub>***
 * Issue ***S<sub>k<sub>*** is the artificially pre-selected 100 strings (e.g. ***S<sub>1<sub>*** = "Human Right", ***S<sub>2<sub>*** = "Arm Sale", ***S<sub>3<sub>*** = "China", ...)
 
