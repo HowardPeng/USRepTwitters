@@ -5,7 +5,7 @@ Terminalogy:
 * Tweet ***T<sub>ij<sub>*** is the ***j*** th tweet from Representative ***i*** , where 1 ≤ ***j*** ≤ ***N<sub>i<sub>***
 * Issue ***S<sub>k<sub>*** is the artificially pre-selected 100 strings (e.g. ***S<sub>1<sub>*** = "Human Right", ***S<sub>2<sub>*** = "Arm Sale", ***S<sub>3<sub>*** = "China", ...)
 
-NLP Technology: word embedding funciton
+NLP Technology: word embedding function
 * nlp: {arbitrary string} -> {50, 100, 200 or 300 dimensional real vector}
 * How "close" 2 strings (say, ***a*** and ***b*** ) are: cosine-similarity( nlp( ***a*** ) , nlp( ***b*** ) )
 
